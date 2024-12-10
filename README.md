@@ -40,8 +40,18 @@
   <img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/>
   <img src="RStudio.png" alt="RStudio Logo" width="100">
 </div>
+<br></br>
 
+### 🌐 spi6 예측 홈페이지 링크
+---
 
+[🔗 **spi6 예측 홈페이지 바로가기**](https://spi-predictor.shinyapps.io/spi100/)
+
+⚠️ **주의사항**  
+서번 연결이 끊긴 경우, **새로고침**을 몇 번 시도하면 정상적으로 접속됩니다.
+
+---
+<br></br>
 
 ### 🏆 주요 결과물
 <table>
