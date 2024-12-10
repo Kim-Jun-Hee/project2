@@ -1,5 +1,7 @@
 # 🌟 수자원 공모전 Project : SPI6를 활용한 미래 가뭄 예측 시스템
 
+<img src="water.png" alt="Image Description" width="300"/>
+
 ### 프로젝트 발표 자료
 - 프로젝트의 전체 내용은 아래 PDF 파일에서 확인할 수 있습니다.<br>
 [<img src="portfolio2.png" width="387px" alt="수자원 공모전 Project">](수자원공모전포트폴리오.pdf)</br>
