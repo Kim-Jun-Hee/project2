@@ -23,9 +23,9 @@
 
 
 ### 📂 프로젝트 목표
-- 출산율 및 영유아 수와 유아용품 물류량과의 관계 분석
-- 명절 기간에 급증하는 택배 수요를 정량화하여 물류 관리 및 운영의 최적화를 도모
-- 오배송 발생 현황 분석 및 오배송 감소 방안 모색
+- 대한민국의 현재 물 자원 상황 분석
+- 기상학적 및 수문학적 요소를 결합한 가뭄 예측 모델 개발
+- SPI6 기반 가뭄 예측 조기 경보 시스템 구축
 <br></br>
 
 ### 📅 프로젝트 기간
@@ -34,8 +34,8 @@
 
 ### 프로젝트 인원 및 역할
 - 총인원: 5명
-- 개인 작업: 영유아 수와 유아용품 물류량과의 상관관계(코로나 영향의 유무),유아용품 물류량에 대한 다중 회귀분석,발표 준비
-- 공동 작업: 모델 성능 높이기
+- 개인 작업: 기상 데이터 전처리,모델 평가 지표 시각화
+- 공동 작업: 가뭄 예측 모델 구현,모델 성능 높이기
 <br></br>
 
 ### 사용된 기술 및 도구
@@ -53,10 +53,10 @@
 </div>
 <br></br>
 
-### 🌐 spi6 예측 홈페이지 링크
+### 🌐 가뭄 예측 홈페이지 링크
 ---
 
-[🔗 **spi6 예측 홈페이지 바로가기**](https://spi-predictor.shinyapps.io/spi100/)
+[🔗 **가뭄 예측 홈페이지 바로가기**](https://spi-predictor.shinyapps.io/spi100/)
 
 ⚠️ **주의사항**  
 서번 연결이 끊긴 경우, **새로고침**을 몇 번 시도하면 정상적으로 접속됩니다.
@@ -67,27 +67,27 @@
 ### 🏆 주요 결과물
 <table>
   <tr>
-    <td align="center">🌟 코로나 유무에 따른 유아용품 물류량의 상관관계</td>
-    <td align="center">🌟 영유아 수 및 혼인 건수 와 유아용품 물류량과의 다중 회귀분석</td>
+    <td align="center">🌟 기상학적 및 수문학적 요소 결합</td>
+    <td align="center">🌟 가뭄 예측 모델 성능 향상</td>
   </tr>
   <tr>
     <td>
-      <img src="corr.png" alt="상관관계" width="500">
+      <img src="combind.png" alt="결합" width="500">
     </td>
     <td>
-      <img src="return.png" alt="다중 회귀분석" width="500">
+      <img src="predict.png" alt="예측모델" width="500">
     </td>
   </tr>
   <tr>
-    <td align="center">🌟 명절과 물류량의 관계</td>
-    <td align="center">🌟 오배송 발생 현황 파악</td>
+    <td align="center">🌟 가뭄 예측 홈페이지 - 시작 화면</td>
+    <td align="center">🌟 가뭄 예측 홈페이지 - 결과 화면</td>
   </tr>
   <tr>
     <td>
-      <img src="holiday.png" alt="명절" width="500">
+      <img src="spi61.png" alt="spi6" width="500">
     </td>
     <td>
-      <img src="error.png" alt="오배송" width="500">
+      <img src="spi62.png" alt="spi6" width="500">
     </td>
   </tr>
 </table>
