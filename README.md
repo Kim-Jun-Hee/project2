@@ -16,7 +16,7 @@
 
 🌟 프로젝트에 대한 상세 내용이 들어있는 파일입니다.
 
-[**공모전 제출 파일 자료 다운로드**](https://github.com/Kim-Jun-Hee/project2/blob/main/수자원공모전포트폴리오.pdf)
+[**공모전 제출 파일 자료 다운로드**](https://github.com/Kim-Jun-Hee/project2/blob/main/제출파일.pdf)
 
 ---
 
