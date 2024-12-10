@@ -21,14 +21,15 @@
 
 ### 프로젝트 인원 및 역할
 - 총인원: 2명
-- 개인 작업: 발표 준비
-- 공동 작업:
+- 개인 작업: 영유아 수와 유아용품 물류량과의 상관관계(코로나 영향의 유무),유아용품 물류량에 대한 다중 회귀분석,발표 준비
+- 공동 작업: 데이터 전처리 및 통합,ppt 제작
 <br></br>
 
 ### 사용된 기술 및 도구
 
 #### 💻 주요 기술
-<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="python-logo.png" alt="SQL" width="40"/> **python**
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="sql-logo.png" alt="SQL" width="40"/> **SQL**
+<img src="https://dummyimage.com/10x1/ffffff/ffffff" width="10"/><img src="r-logo.png" alt="R" width="40"/>  **base R**
 
 #### 🛠️ 도구 
 <div style="display: flex; align-items: center; gap: 20px;">
@@ -67,3 +68,4 @@
     </td>
   </tr>
 </table>
+
